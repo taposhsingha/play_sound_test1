@@ -1,0 +1,23 @@
+# ninja log v5
+20	351	706114462	CMakeFiles/example.dir/common.cpp.o	9d36ac256d2777a9
+13	464	706114462	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+0	873	706114462	CMakeFiles/example.dir/common_platform.cpp.o	ff805ba913525451
+874	1086	706114462	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	355d1333ac949378
+38	2793	707049186	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+2793	4441	707049188	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	355d1333ac949378
+3	10866	707049563	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+4	420	707049655	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	118c8fdabc87c9ce
+4	579	707049771	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+579	764	707049771	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	118c8fdabc87c9ce
+3	536	707049969	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+536	752	707049969	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	118c8fdabc87c9ce
+2	2481	707050562	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+2481	2808	707050563	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	118c8fdabc87c9ce
+4	1331	707051083	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+1332	1624	707051083	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	118c8fdabc87c9ce
+4	2032	707052059	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+2032	2457	707052060	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	118c8fdabc87c9ce
+4	1615	707052162	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+1615	1906	707052162	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	118c8fdabc87c9ce
+2	1363	707052251	CMakeFiles/example.dir/play_sound.cpp.o	effa26fe039870c5
+1363	2515	707052251	E:/GAMES/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	118c8fdabc87c9ce
